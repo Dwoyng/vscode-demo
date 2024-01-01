@@ -7,7 +7,7 @@ function login() {
 
     // Ví dụ đơn giản: Kiểm tra nếu username là "admin" và password là "password"
     if (username === "Trang" ) {
-        window.location.href = "http://127.0.0.1:5501";
+        window.location.href = "https://dwoyng.github.io/Project-demo/";
     } else {
         alert("Đăng nhập thất bại. Vui lòng kiểm tra lại tài khoản và mật khẩu.");
     }
